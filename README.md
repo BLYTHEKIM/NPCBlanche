@@ -7,3 +7,5 @@ Basically, I am active on Naver Cafe and Naver Blog. -But I can't access them of
 
 https://posty.pe/muf472 <-여기에서 배포중입니다.
 The link above will allow you to download the file without Naver signing up. Also, if you want to comment on the page, you can sign up with your Google email. 
+
+본 모드의 코드는 다른 커스텀 NPC를 제작할 때 참고용으로 사용하셔도 괜찮습니다. 그 외 캐릭터 자체에 대한 라이센스는 Creative Commons Licens (BY-NC)의 규범에 따릅니다.
